@@ -1,0 +1,40 @@
+p{
+    margin: 25px 50px 75px 100px ;
+}
+
+#p1{
+    border: 6px solid;
+    color:black;
+    border-radius: 18px;
+
+}
+
+#p2{
+    border: 3px solid;
+    color: blue;
+}
+
+#p3{
+    border: 3px dotted;
+    color: chartreuse;
+}
+
+#p4{
+    border: 3px dashed;
+    color: chocolate;
+}
+
+#p5{
+    border: 15px double;
+    color: darkgreen;
+}
+
+#p6{
+    border: 6px double;
+    color: darkslateblue;
+}
+
+#p7{
+    border: 5px groove;
+    color: crimson;
+}
